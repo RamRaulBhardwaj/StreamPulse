@@ -1,0 +1,11 @@
+node_modules/
+.env
+dist/
+build/
+.DS_Store
+*.log
+npm-debug.log*
+server/uploads/videos/*
+!server/uploads/videos/.gitkeep
+server/uploads/thumbnails/*
+!server/uploads/thumbnails/.gitkeep
